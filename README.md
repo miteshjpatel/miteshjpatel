@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @miteshjpatel
 - 👀 I’m interested in SAP HANA,Terraform, Ansible, AWS etc
 - 🌱 I’m currently learning Terraform and Ansible
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Dockers and Kubernetes
+-  I'm learning Dockers and Kubernetes
 - 📫 How to reach me ...
 
 <!---
